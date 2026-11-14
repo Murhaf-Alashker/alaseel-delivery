@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alaseel-delivery.com/sitemap.xml
